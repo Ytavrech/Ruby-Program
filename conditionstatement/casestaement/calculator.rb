@@ -3,7 +3,7 @@ loop do
     a = gets.chomp.to_i
     puts "Enter the second Number"
     b = gets.chomp.to_i
-    puts "enter the sign"
+    puts "enter the sign +"
     sign = gets.chomp.to_s
 case sign
 when '+'

@@ -19,10 +19,9 @@ num=1
 while num<=5
     1.upto(num) do|i|
         print i
-        i+=1
-        num+=1
+        i+=1        
     end
- 
+    num+=1
     puts
 end
 
